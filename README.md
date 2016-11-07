@@ -1,4 +1,4 @@
-# Angular2 typescript boilerplate
+# Angular2 Typescript - Boilerplate
 
 ![VS Code Angular2 Typescript](https://github.com/venkatesh87/angular2-typescript-boilerplate/raw/master/src/assets/img/Angular2-TypeScript.png)
 
