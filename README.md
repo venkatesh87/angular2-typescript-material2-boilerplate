@@ -2,8 +2,16 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
 
+## Prerequisite: Install Node.js and npm
+
+If Node.js and npm aren't already on your machine, [install them](http://blog.npmjs.org/post/85484771375/how-to-install-npm). Our examples require node v4.x.x or higher and npm 3.x.x or higher. To check which version you are using, run node -v and npm -v in a terminal window.
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+You can configure the default HTTP port and the one used by the LiveReload server with two command-line options :
+
+> ng serve --host 0.0.0.0 --port 4201 --live-reload-port 49153
 
 ## Code scaffolding
 
