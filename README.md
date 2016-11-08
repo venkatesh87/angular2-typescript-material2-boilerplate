@@ -1,6 +1,6 @@
 # Angular2 Typescript Material 2 Boilerplate
 
-![VS Code Angular2 Typescript](https://github.com/venkatesh87/angular2-typescript-boilerplate/raw/master/src/assets/img/Angular2-TypeScript.png)
+![VS Code Angular2 Typescript](https://github.com/venkatesh87/angular2-typescript-boilerplate/raw/master/src/assets/img/AngularMaterialBanner.png)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
 
